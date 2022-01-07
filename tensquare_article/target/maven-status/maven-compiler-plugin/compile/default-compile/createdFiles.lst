@@ -1,0 +1,11 @@
+com\tensquare\article\controller\BaseException.class
+com\tensquare\article\service\TestService.class
+com\tensquare\article\config\MyBatisPlusConfig.class
+com\tensquare\article\pojo\Testdb.class
+com\tensquare\article\BaseApplication.class
+com\tensquare\article\controller\TestController.class
+com\tensquare\article\service\ArticleService.class
+com\tensquare\article\pojo\Article.class
+com\tensquare\article\dao\ArticleDao.class
+com\tensquare\article\controller\ArticleController.class
+com\tensquare\article\reponsitory\TestRepository.class

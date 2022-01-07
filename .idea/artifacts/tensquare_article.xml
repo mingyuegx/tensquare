@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="tensquare_article">
+    <output-path>$PROJECT_DIR$/out/artifacts/tensquare_article</output-path>
+    <root id="root">
+      <element id="archive" name="tensquare_article.jar">
+        <element id="module-output" name="tensquare_article" />
+      </element>
+    </root>
+  </artifact>
+</component>
